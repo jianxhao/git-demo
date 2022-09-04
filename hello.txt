@@ -19,4 +19,4 @@ hello git
 hello git
 hello git
 hello git ms -2.5
-hello git
+hello git "hot"
